@@ -18,8 +18,6 @@ Je opdracht deze week: krijg beide delen online op Azure, via GitHub Actions.
 
 ### API
 
-Je hebt de .NET SDK nodig (zie de `TargetFramework` in het projectbestand).
-
 ```
 cd API
 dotnet build
@@ -32,7 +30,6 @@ De API luistert op `http://localhost:5080`. Test met
 
 ### Frontend
 
-Je hebt Node.js nodig (zie de vereisten van Vite voor de minimale versie).
 
 ```
 cd Frontend
